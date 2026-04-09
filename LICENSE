@@ -19,3 +19,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## Third-Party Licenses
+
+このソフトウェア「アドリオ/Adrio」は、以下のサードパーティライブラリを使用しています。各ライブラリの著作権は、それぞれの所有者に帰属します。
+
+* **marked.js** (MIT License)
+  https://github.com/markedjs/marked
+* **KaTeX** (MIT License)
+  https://github.com/KaTeX/KaTeX
+* **highlight.js** (BSD 3-Clause License)
+  https://github.com/highlightjs/highlight.js
+* **Lucide Icons** (ISC License)
+  https://github.com/lucide-icons/lucide
+* **idb-keyval** (Apache License 2.0)
+  https://github.com/jakearchibald/idb-keyval
